@@ -1,0 +1,28 @@
+2
+20
+A 1 "Motorworld"
+A 5 "Introduction to Algorithms"
+A 2 "Computational Geometry in C"
+A 14 "The Complete Calvin and Hobbes"
+R "Motorworld"
+R "Computational Geometry in C"
+A 3 "Pride and Prejudice"
+A 2 "The Hitchhiker's Guide to the Galaxy"
+A 1 "The Dragon and the Dry Goods Princess"
+R "The Complete Calvin and Hobbes"
+A 4 "An Instance of the Fingerpost"
+A 2 "The Man Who Mistook His Wife for a Hat"
+R "An Instance of the Fingerpost"
+A 2 "Artemis Fowl"
+E
+10
+A 1 "No. 1 Ladies' Detective Agency"
+A 2 "archy and mehitabel"
+A 1 "The Code of the Woosters"
+A 5 "Dinosaurs"
+R "archy and mehitabel"
+A 1 "Holes"
+R "Dinosaurs"
+A 1 "Stardust"
+A 3 "The Deep"
+E
